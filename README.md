@@ -9,7 +9,7 @@ Sou um apaixonado por transformar café em código e ideias em interfaces incrí
 - 🔭 Atualmente trabalhando em projetos com **React** e **TailwindCSS**.
 - 🌱 Aprofundando meus conhecimentos em **Node.js** e **Django** para o Back-end.
 - ⚡ Curiosidade: Adoro resolver problemas lógicos e otimizar a experiência do usuário.
-
+  
 ---
 
 ### 🛠️ Tecnologias
